@@ -21,6 +21,13 @@ body {
 .top-header .name {
 	font-size: 26px;
 }
+.name-title {
+  text-decoration: none;
+  color: black;
+}
+.name-title:hover {
+  color: black;
+}
 
 .nav ul {
 	display: flex;
